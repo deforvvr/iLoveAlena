@@ -1,0 +1,15 @@
+C:\Users\1\Desktop\22_03_direction\bin\Debug\net6.0\22_03_direction.exe
+C:\Users\1\Desktop\22_03_direction\bin\Debug\net6.0\22_03_direction.deps.json
+C:\Users\1\Desktop\22_03_direction\bin\Debug\net6.0\22_03_direction.runtimeconfig.json
+C:\Users\1\Desktop\22_03_direction\bin\Debug\net6.0\22_03_direction.dll
+C:\Users\1\Desktop\22_03_direction\bin\Debug\net6.0\22_03_direction.pdb
+C:\Users\1\Desktop\22_03_direction\obj\Debug\net6.0\22_03_direction.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\22_03_direction\obj\Debug\net6.0\22_03_direction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\22_03_direction\obj\Debug\net6.0\22_03_direction.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\22_03_direction\obj\Debug\net6.0\22_03_direction.AssemblyInfo.cs
+C:\Users\1\Desktop\22_03_direction\obj\Debug\net6.0\22_03_direction.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\22_03_direction\obj\Debug\net6.0\22_03_direction.dll
+C:\Users\1\Desktop\22_03_direction\obj\Debug\net6.0\refint\22_03_direction.dll
+C:\Users\1\Desktop\22_03_direction\obj\Debug\net6.0\22_03_direction.pdb
+C:\Users\1\Desktop\22_03_direction\obj\Debug\net6.0\22_03_direction.genruntimeconfig.cache
+C:\Users\1\Desktop\22_03_direction\obj\Debug\net6.0\ref\22_03_direction.dll
